@@ -1,4 +1,6 @@
 # volumio-pydpiper-plugin
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaiyato%2Fvolumio-pydpiper-plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSaiyato%2Fvolumio-pydpiper-plugin?ref=badge_shield)
+
 
 The rest of the readme will follow, but I claim no rights to the pydPiper software, all work has been done by dhrone; which I thankfully bundled and use. I merely created an installable plugin, which allows for easy configuration of LCD screens.
 
@@ -10,3 +12,7 @@ Instructions to install were removed as per request by Volumio, you can always f
 The PR to add this plugin to the official store can be found here: https://github.com/volumio/volumio-plugins/pull/419
 
 Please bear in mind, you can freely use any of the code/scripts, but the community creates these in their own time (without any compensation). A big shout out to Dhrone for the amazing work done to containerize LCD control scripts!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaiyato%2Fvolumio-pydpiper-plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSaiyato%2Fvolumio-pydpiper-plugin?ref=badge_large)
